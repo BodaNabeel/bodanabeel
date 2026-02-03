@@ -1,25 +1,24 @@
 # Hi, I'm Nabeel Boda 👋
 
-**Frontend Engineer** building pixel-perfect, scalable web applications | **Open to Work** 🟢
+**Frontend Engineer | Open to Work** 🟢
 
-I specialize in crafting complex UIs for AI chatbots, dashboards, and enterprise applications. Recently led frontend development at SarvamAI, helping onboard clients like Niti Aayog with a real-time AI reasoning interface.
+* Frontend Engineer with 1+ year of experience building pixel-perfect, scalable web applications.
+* Led a 3-person frontend team at **SarvamAI**, building enterprise AI reasoning interface that onboarded **Niti Aayog** as a client.
+* Built production applications serving real users: 
+**[ChatAndMe](https://chatandme.vercel.app/)** (AI chat with SSE streaming), **[NoteSync](https://notesync.up.railway.app/)** (Real Time Note Collaboration), **[KzorPDF AI](https://kzor-pdf-ai-seven.vercel.app/)** (PDF chat application).
+* Contributed to **[IndicSubtitler](https://indicsubtitler.in/)** at Hasgeek Hackathon, building accessible UI for Indic subtitle generation.
+* Specialize full stack applications end to end.
+* **[Portfolio Website](https://bodanabeel.vercel.app)**
 
 ## 🛠️ Tech Stack
 
 **Core:** Next.js, React, TypeScript, Tailwind CSS  
 **State & Data:** React Query, Zustand, Drizzle ORM  
-**Tools:** Git, REST APIs, Shadcn, Chart.js, Payload CMS
+**Backend Integration:** REST APIs, Server-Sent Events, Better-Auth  
+**UI/UX:** Shadcn, Chart.js, ECharts, Payload CMS
 
+## 📫 Contact
 
-## 💼 Experience Highlights
-- **1 Year of Experience** building frontend web apps
-- **Led 3-person frontend team** building enterprise-grade UIs
-- Implemented **live-streaming AI chat interfaces** with dynamic phase visualization
-- Built **complex filtering systems** and **customizable analytics dashboards**
-- Delivered **pixel-perfect Figma-to-code** implementations with optimal performance
+[nabeelboda0@gmail.com](mailto:nabeelboda0@gmail.com)• [+91-6006062802](tel:+916006062802)
 
-## 📫 Let's Connect
-
-[Portfolio](https://bodanabeel.vercel.app) • [Email](mailto:nabeelboda0@gmail.com) • Delhi, India
-
-Currently seeking frontend or full-stack opportunities where I can build impactful products!
+Currently seeking frontend or full-stack opportunities to build impactful products!
