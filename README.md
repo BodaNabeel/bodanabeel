@@ -19,6 +19,6 @@
 
 ## 📫 Contact
 
-[nabeelboda0@gmail.com](mailto:nabeelboda0@gmail.com)• [+91-6006062802](tel:+916006062802)
+[nabeelboda0@gmail.com](mailto:nabeelboda0@gmail.com) 
 
 Currently seeking frontend or full-stack opportunities to build impactful products!
