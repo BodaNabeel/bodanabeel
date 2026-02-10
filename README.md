@@ -5,10 +5,12 @@
 * Frontend Engineer with 1+ year of experience building pixel-perfect, scalable web applications.
 * Led a 3-person frontend team at **SarvamAI**, building enterprise AI reasoning interface that onboarded **Niti Aayog** as a client.
 * Built production applications serving real users: 
-**[ChatAndMe](https://chatandme.vercel.app/)** (AI chat with SSE streaming), **[NoteSync](https://notesync.up.railway.app/)** (Real Time Note Collaboration), **[KzorPDF AI](https://kzor-pdf-ai-seven.vercel.app/)** (PDF chat application).
-* Contributed to **[IndicSubtitler](https://indicsubtitler.in/)** at Hasgeek Hackathon, building accessible UI for Indic subtitle generation.
+  - **[ChatAndMe](https://github.com/BodaNabeel/chatandme)** (AI chat with SSE streaming),
+  - **[NoteSync](https://github.com/BodaNabeel/notesync)** (Real Time Note Collaboration), 
+  - **[KzorPDF AI](https://github.com/BodaNabeel/KzorPDF-AI)** (PDF chat application).
+* Contributed to **[IndicSubtitler](https://github.com/kurianbenoy/Indic-Subtitler)** at Hasgeek Hackathon, building accessible UI for Indic subtitle generation.
 * Specialize full stack applications end to end.
-* **[Portfolio Website](https://bodanabeel.vercel.app)**
+* **[Portfolio Website](https://bodanabeel.xyz/)**
 
 ## 🛠️ Tech Stack
 
