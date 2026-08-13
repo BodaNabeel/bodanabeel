@@ -1,6 +1,6 @@
 # Hi, I'm Nabeel Boda 👋
 
-**Frontend Engineer | Open to Work** 🟢
+**Software Engineer**
 
 * Frontend Engineer with 1+ year of experience building pixel-perfect, scalable web applications.
 * Led a 3-person frontend team at **SarvamAI**, building enterprise AI reasoning interface that onboarded **Niti Aayog** as a client.
